@@ -10,7 +10,7 @@
 
 .main1{
     height: 50px;
-    
+    background-color: rgb(248, 238, 238);
     display: flex;
     gap: 30px;
     padding: 10px;
